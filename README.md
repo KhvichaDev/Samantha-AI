@@ -338,6 +338,6 @@ Samantha AI is engineered on **Privacy-First Principles**:
 
 <div align="center">
 
-**Samantha AI** — *Empowering Your Digital Sovereignty with Intelligent Voice, Vision & Device Autonomy.*
+**Samantha AI** - *Empowering Your Digital Sovereignty with Intelligent Voice, Vision & Device Autonomy.*
 
 </div>
