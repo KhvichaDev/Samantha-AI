@@ -1,4 +1,4 @@
-# 🎙️ Samantha AI — Autonomous Cognitive Voice, Vision & Device Assistant
+# 🎙️ Samantha AI - Autonomous Cognitive Voice, Vision & Device Assistant
 
 > **Samantha AI** is designed as a persistent cognitive companion that unifies natural conversation, multimodal perception, long-term memory, and autonomous interaction with the user's digital environment across Windows Desktop, Android, and iOS.
 
